@@ -1,0 +1,20 @@
+Execution of code
+
+1. Import the libraries
+2. Import the datasets, train and test dataset
+3. View the fisrst 5 records oth the datasets
+4. Print description of trein dataset
+5. Drop the 133 unamed columns
+6. Check null values
+7. Check the shape of the datasets
+8. Check datatypes
+9. Create l1 list (consist of the symptoms)
+10. Remove prognosis from the list
+11. Create l2 list (empty list)
+12. Create disease list (diseases)
+13. Print prognosis as an array
+14. Replace valuesf or both the datasets
+15. Drop null values from the array
+16. Define X_train, X_test, y_train and y_test
+17. Run the models, Decision Tree, Random Forest and Naive Bayes
+18. Create the Graphical User Interface
